@@ -27,8 +27,6 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
