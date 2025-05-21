@@ -1,73 +1,25 @@
-<h1 align="left">👋Hey, Gokul here</h1>
+### Hi there 👋
 
-###
+My name is Gokul Sureshkumar, and I'm a Designer & Frontend Developer | Assistant Backend Developer with a strong interest in building intuitive and impactful digital experiences.
 
-<p align="left">I am Gokul Sureshkumar, A self taught Programer,based in India.I expertise in MERN Stack Developer.</p>
+- 🎨 I specialize in creating clean and responsive UI designs with a focus on user experience.
+- 💻 I work extensively with modern frontend technologies and assist in backend development to ensure seamless integration.
+- 🌱 I recently built a program to automatically download & transcribe your favorite podcasts — check it out [here](#)
+- 👯 I’m looking to collaborate on YouTube videos!
+  - Send ideas to gokul.sureshkumar06@gmail.com
 
 
+<!--
+**KeithGalli/keithgalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h2 align="left">Skills Toolbox 🔨</h2>
+Here are some ideas to get you started:
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Profile Stats 📈</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adilcodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilcodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Connect 🔗</h2>
-
-###
-
-<div align="left">
-  <a href="
-https://www.instagram.com/i__gokul_?igsh=MW5vN2Mwcm12M2FhMw%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="35" alt="instagram logo"  />
-  </a>
-  <a href="
-https://t.me/+919597654462" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="35" alt="linktree logo"  />
-  </a>
-  <a href="https://wa.me/qr/L4M35TOFDWDJO1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" height="35" alt="linktree logo"  />
-  </a>
-  <a href="www.linkedin.com/in/gokulsureshkumar06" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
-###
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
