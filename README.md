@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Gokul Sureshkumar, a Designer and Frontend Developer with a passion for creating intuitive, impactful digital experiences — also contributing as an Assistant Backend Developer.
+I'm Gokul Sureshkumar, a Designer and Full Stack Developer with a passion for creating intuitive, impactful digital experiences — also contributing as an Assistant Backend Developer.
 
 - 🎨 I specialize in creating clean and responsive UI designs with a focus on user experience.
 - 💻 I work extensively with modern frontend technologies and assist in backend development to ensure seamless integration.
