@@ -1,5 +1,4 @@
-![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/user-attachments/assets/0f347a9d-713f-4d14-954a-a3d64f863a60)
-
+<img width="1584" height="396" alt="Ivory White Modern Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/6d2ab74e-080f-424f-819d-e2859954237c" />
 
 
 ### Hi there 👋
