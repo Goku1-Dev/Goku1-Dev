@@ -2,8 +2,8 @@
 ## Gokul Sureshkumar
 Full-Stack Developer · Bangalore, India
 </br>
-[gokulsureshkumar.in]()
-[LinkedIn](https://www.linkedin.com/in/gokul-sureshkumar/)
+- [gokulsureshkumar.in]()
+- [LinkedIn](https://www.linkedin.com/in/gokul-sureshkumar/)
 <br></br>
 
 ### Selected Projects
