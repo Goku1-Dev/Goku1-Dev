@@ -3,6 +3,11 @@
 Full-Stack Developer · Bangalore, India
 </br>
 [gokulsureshkumar.in]()
+[LinkedIn](https://www.linkedin.com/in/gokul-sureshkumar/)
+<br></br>
+
+### Selected Projects
+  - [Zenitix JS Library](https://github.com/Goku1-Dev/Zenitix) - a JSX compiler enabling file-scoped state and O(1) DOM updates without a virtual DOM.
 <br></br>
 
 ### Systems from Scratch
@@ -17,7 +22,3 @@ Full-Stack Developer · Bangalore, India
 ### Fundamentals
   - [Data-Structures-and-Algorithms](https://github.com/Goku1-Dev/Data-Structures-Algorithms) - Consistent DSA practice to sharpen problem solving
 <br></br>
-
-### Connect
-  - [gokulsureshkumar.in]()
-  - [LinkedIn](https://www.linkedin.com/in/gokul-sureshkumar/)
