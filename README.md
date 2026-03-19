@@ -8,15 +8,10 @@ Full-Stack Developer · Bangalore, India
 
 ### Selected Projects
   - [Zenitix JS Library](https://github.com/Goku1-Dev/Zenitix) - a JSX compiler enabling file-scoped state and O(1) DOM updates without a virtual DOM.
-<br></br>
-
-### Systems from Scratch
-  - [Systems-From-Scratch](https://github.com/Goku1-Dev/Systems-from-Scratch) - Building core systems from scratch to deepen my understanding
-      - [Compiler](https://github.com/Goku1-Dev/Systems-from-Scratch/tree/main/Compiler) - Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
-      - [Memory Allocator & Garbage Collector](https://github.com/Goku1-Dev/Systems-from-Scratch/tree/main/Malloc) - Free-list heap allocator with block splitting, coalescing, and mark-and-sweep GC
-      - [React](https://github.com/Goku1-Dev/Systems-from-Scratch/tree/main/React) - Reconciler with diffing algorithm, Fiber scheduler, and Hooks runtime
-      - [Redux](https://github.com/Goku1-Dev/Systems-from-Scratch/tree/main/Redux) - Store implementation with reducer pipeline, middleware chain, and subscription model
-      - [Git](https://github.com/Goku1-Dev/Systems-from-Scratch/tree/main/Git) - Blob/tree objects, content-addressable storage, and commit graph
+  - [React](https://github.com/Goku1-Dev/react-from-scratch) - Reconciler with diffing algorithm, Fiber scheduler, and Hooks runtime
+  - [Compiler]() - Lexer, recursive-descent parser (AST), and scoped runtime evaluation engine
+  - [Memory Allocator & Garbage Collector](https://github.com/Goku1-Dev/memory-allocator) - Free-list heap allocator with block splitting, coalescing, and mark-and-sweep GC
+  - [Git](https://github.com/Goku1-Dev/git-from-scratch) - Blob/tree objects, content-addressable storage, and commit graph
 <br></br>
 
 ### Fundamentals
